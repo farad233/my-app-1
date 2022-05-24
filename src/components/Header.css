@@ -1,0 +1,7 @@
+.nav {
+    padding-left: 5%;
+    padding-right: 5%;
+    display: flex;
+    justify-content: space-between;
+    background-color: grey;
+}
